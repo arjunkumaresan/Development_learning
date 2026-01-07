@@ -11,4 +11,4 @@ Adding new functionalitiess test case
 
 Adding logout step and quit step into this file.
 
-Adding steps for multiple user login
+Adding these steps for a multiple user login
