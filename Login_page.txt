@@ -6,3 +6,5 @@ Login the page
 Validate the login successful or not
 
 Attachment(Video,screenshot,logs)
+
+Adding new functionalitiess test case 
